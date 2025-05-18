@@ -34,11 +34,12 @@ Test-Automation-DemoBlaze/
 - Daha önce kayıtlı kullanıcı adıyla tekrar kayıt olunamaz
 
 ## 🧾 Allure Raporları
+![Ekran Alıntısı](https://github.com/user-attachments/assets/acc23044-e274-4f5c-9e9b-b6fd4cc00a45)
 
 Test çalıştırmalarının ardından **Allure** ile otomatik olarak rapor oluşturulmuştur.
 
 ### Genel Görünüm (Overview)
-![Allure Overview](./screenshots/Ekran%20Alıntısı.PNG)
+
 
 ### Test Detayları (Login & SignUp)
 ![Test Suites](./screenshots/Ekran%20Alıntısı1.PNG)
